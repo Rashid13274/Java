@@ -6,7 +6,7 @@ public class Binary_Search_Recrusively {
 		int arr []= {1,2,4,5,6,7,8};
 		int start=0;
 		int end =arr.length-1;
-		int target=7;
+		int target=1;
 		System.out.println(binarySearch(arr, start, end, target));
 
 	}
